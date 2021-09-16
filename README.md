@@ -5,5 +5,5 @@
 
 Inline-style: 
 ![alt text][logo]
-[logo]: tg://openmessage?user_id=595595122&message_id=69130 "Logo Title Text 2"
+[logo]: https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png "Logo Title Text 2"
 
